@@ -1745,6 +1745,7 @@ academy N Y was second and F P
 Thpll of Jamacla Plains third
 The games at the oval were deemed as
 of secondary Importance to the road race</text>
+      </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83030193/1908-04-20/ed-1/?sp=1&amp;q=marathon+boston+race</id>
 	<rel>1</rel>
@@ -2398,14 +2399,17 @@ contests at shorter distances.</text>
       <result>
 	<id>https://chroniclingamerica.loc.gov/lccn/sn86063730/1927-12-19/ed-1/seq-8/#date1=1800&amp;index=0&amp;rows=20&amp;words=Boston+first+marathon&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=first+boston+marathon&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
 	<rel>0</rel>
+	<text></text>
       </result>
       <result>
 	<id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1933-06-11/ed-1/seq-89/#date1=1800&amp;index=0&amp;rows=20&amp;words=Boston+marathon+record&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=record+in+boston+marathon&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
 	<rel>0</rel>
+	<text></text>
       </result>
       <result>
 	<id>https://chroniclingamerica.loc.gov/lccn/sn86076141/1932-04-19/ed-1/seq-3/#date1=1756&amp;index=0&amp;rows=20&amp;words=first+marathon+States+United&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=the+first+marathon+in+united+states&amp;y=10&amp;x=12&amp;dateFilterType=yearRange&amp;page=1</id>
 	<rel>0</rel>
+	<text></text>
       </result>
       <result>
 	<id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1918-03-06/ed-1/seq-18/#date1=1756&amp;index=0&amp;rows=20&amp;words=BOSTON+Boston+Canceled+Marathon&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=boston+marathon+cancelled&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
@@ -2426,7 +2430,9 @@ j will enter teams.</text>
       <result>
 	<id>https://chroniclingamerica.loc.gov/lccn/sn86064259/1909-08-27/ed-1/seq-8/#date1=1756&amp;index=0&amp;rows=20&amp;words=ever+first+Marathon&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=first+marathon+ever&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
 	<rel>0</rel>
+	<text></text>
       </result>
     </results>
-    </topic>
+  
+  </topic>
 </topics>
